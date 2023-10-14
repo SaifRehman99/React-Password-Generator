@@ -1,8 +1,28 @@
-# React + Vite
+# React Password Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React Interview Question on building Password Generator will be created in this video along with tips and tricks to tackle your React JS and JavaScript Questions in Frontend Coding Interviews.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This README will guide you through the setup and usage of this project.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following software installed:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+### Installation
+
+1. Clone this repository to your local machine and just run the live server and boom:
+
+   ```bash
+   git clone https://github.com/SaifRehman99/React-Password-Generator
+
+
+
+
+## Screenshots
+
+![Screenshot 1](https://i.ibb.co/M8zG1cb/Screenshot-2023-10-14-135951.png)
