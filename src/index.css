@@ -65,4 +65,11 @@ input[type="range"] {
 
 .btn-generate{
   width: 100%;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.error{
+  color: red;
+  padding: 10px 0px;
 }
